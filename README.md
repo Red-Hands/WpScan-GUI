@@ -2,8 +2,8 @@
 
 
 OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
-
-<img src="wpscan/logo.jpg">
+<center>
+<img src="wpscan/logo.jpg"></center>
 
 #INSTALL
 
@@ -16,6 +16,12 @@ OUR YOUTUBE LINK :https://www.youtube.com/channel/UCuafVcvdTEir2jaXW8hhaoQ
 4.sudo bash install.sh
 
 5.Type "wpscan-gui" in any terminal to use the tool
+
+<center>
+<img src="wpscan/1.png"></center>
+
+<center>
+<img src="wpscan/2.png"></center>
 
 
 
