@@ -3,7 +3,7 @@
 
 #INSTALL
 
-1. git clone https://github.com/blackhacker3/WpScan-GUI.git
+1.git clone https://github.com/blackhacker3/WpScan-GUI.git
 
 2.cd WpScan-GUI
 
